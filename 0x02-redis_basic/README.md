@@ -1,2 +1,2 @@
 #0x02-redis_basic
-![redis pix](https://cdn.hackersandslackers.com/2020/02/redis.jpg)
+![redis_pix](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEh09KugWf9Nll7KSG7yZBNIvMLXvLKZ92heAygg8X6PYa2oq5Gp7OARqFBSZyMbfZCsrcK9Mh72AhpOgxuEXhmjAynK6iRSEf_xMMAl_T0oqulTMyMrJgAc7PDPFVO0MuKFWRJessc_Iu5-Rm-QSXVXRVTrU_666K232IVvIKEiChh39TVtKy5BnyQY/w0/redis.jpg)
